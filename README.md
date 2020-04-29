@@ -47,5 +47,4 @@ Four
 	coroutine_execution()中也可以直接return结果，则会返回到coroutine_init()中。
 
 
-Python协程知识点参考：[协程初体验之简单的利用框架
-](https://threezh1.com/2019/08/22/%E7%AE%80%E5%8D%95%E7%9A%84%E5%8D%8F%E7%A8%8B%E5%88%A9%E7%94%A8%E6%A1%86%E6%9E%B6/)
+Python协程知识点参考：[协程初体验之简单的利用框架](https://threezh1.com/2019/08/22/%E7%AE%80%E5%8D%95%E7%9A%84%E5%8D%8F%E7%A8%8B%E5%88%A9%E7%94%A8%E6%A1%86%E6%9E%B6/)
